@@ -88,6 +88,9 @@ The API server will start on `http://127.0.0.1:8000`.
 ```bash
 streamlit run streamlit_app.py
 ```
+## Output on Streamlit
+![image](https://github.com/user-attachments/assets/c9988b36-e680-4a56-bbbf-2df83c96bb6a)
+
 
 The Streamlit UI will automatically open in your default browser, typically at `http://localhost:8501`.
 
@@ -214,23 +217,6 @@ The system uses a configuration system defined in `config.py` that includes:
 - API configurations
 - System parameters
 - Logging settings
-
-## 📝 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
-## 📧 Contact
-
-[Add contact information here]
-
-## 🙏 Acknowledgments
-
-- Thanks to all the AI providers for their APIs
-- Special thanks to the cybersecurity community for their insights and best practices
 
 ---
 
